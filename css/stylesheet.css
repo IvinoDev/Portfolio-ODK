@@ -3425,6 +3425,11 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   background-color: #e9eff0;
 }
 
+.text-place {
+  color: #ffbf00f7;
+  font-weight: bold;
+}
+
 /* Vertical Multilple input group */
 .vertical-input-group .input-group:first-child {
   padding-bottom: 0;
